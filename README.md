@@ -7,8 +7,17 @@ Dataset yang digunakan dalam penelitian ini berasal dari penelitian "PRDECT-ID: 
 # IndoBERT
 Model pre-trained IndoBERT digunakan untuk menganalisis sentimen dan emosi yang tergantung dalam teks review dari dataset.
 
+![IndoBERT Sentiment Acc](./img/sent-indobert.png)
+
+![IndoBERT Emotion Acc](./img/emo-indobert.png)
+
+
 # SVM
 Model tradisional SVM digunakan untuk menganalisis sentimen dan emosi yang tergantung dalam teks review dari dataset.
-![SVM Chart]([https://ibb.co.com/fVVHH7Kd])
+
+![SVM Chart](./img/PPT%20Sidang%20Akhir%20(4).png)
+
 # Hasil
 IndoBERT unggul dalam hal akurasi, tetapi SVM unggul dalam hal efiesiensi.
+
+![EVAL CHART](./img/eval-acc.png)
